@@ -1,5 +1,65 @@
-div {
-    color: black;
-    height: 100px;
-    width: 220px;
+#background {
+    background-color: black;
+    height: 300px;
+    width: 300px;
+}
+
+#squareOne {
+    background-color: null;
+    height: 30px;
+    width: 30px;
+}
+
+#squareTwo {
+    background-color: null;
+    height: 30px;
+    width: 30px;
+}
+
+#squareThree {
+    background-color: null;
+    height: 30px;
+    width: 30px;
+}
+
+#squareFour {
+    background-color: null;
+    height: 30px;
+    width: 30px;
+}
+
+#squareFive {
+    background-color: null;
+    height: 30px;
+    width: 30px;
+}
+
+#squareSix {
+    background-color: null;
+    height: 30px;
+    width: 30px;
+}
+
+#squareSeven {
+    background-color: null;
+    height: 30px;
+    width: 30px;
+}
+
+#squareEight {
+    background-color: null;
+    height: 30px;
+    width: 30px;
+}
+
+#squareNine {
+    background-color: null;
+    height: 30px;
+    width: 30px;
+}
+
+#squareTen {
+    background-color: null;
+    height: 30px;
+    width: 30px;
 }
