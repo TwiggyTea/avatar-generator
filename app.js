@@ -1,0 +1,11 @@
+let squareOneNum = Math.floor(Math.random()*100)
+let squareTwoNum = Math.floor(Math.random()*100)
+let squareThreeNum = Math.floor(Math.random()*100)
+let squareFourNum = Math.floor(Math.random()*100)
+let squareFiveNum = Math.floor(Math.random()*100)
+let squareSixNum = Math.floor(Math.random()*100)
+let squareSevenNum = Math.floor(Math.random()*100)
+let squareEightNum = Math.floor(Math.random()*100)
+let squareNineNum = Math.floor(Math.random()*100)
+let squareTenNum = Math.floor(Math.random()*100)
+
